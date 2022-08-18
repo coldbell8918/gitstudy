@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hey 2
-=======
-hey
->>>>>>> testing
+fixing C
 
